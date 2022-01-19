@@ -136,6 +136,7 @@ User Management Screen relies on creation and display of users.
 		  - Input Title Text Column Width : 20%
 		  - Input Width : 80%
 		  - Mock Up:
+		  
 ![pi_ui_form](https://user-images.githubusercontent.com/43369148/150200039-92968d1f-7fbf-44ab-926c-ebab41ca3880.png)
 
 - Allignment
