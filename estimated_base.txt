@@ -1,0 +1,21 @@
+To make this estimation I need to make initial assumptions:
+	- Total customers to serve (probably future addition to customers is calculated for not to reconsider shortage in short terms if every person aged over 10 is using a cellphone that is nearly %80 of population 20.000.000 x 0,8 = 16.000.000)
+	- Data rate: how much data+calls roaming (estimate according to the busy periods like holidays) x
+	- How much coverage base stations serve (radius to 0 - 10km)
+	- Istanbul's area (app. 5300 km2)
+
+According to data I've assumed people density in Istanbul is about 3000 people per km2
+
+In Turkey, the average density is 110 people per km2 so I assume the 10km range is valid for 110 people density.
+
+So for 110 people with x traffic 110x traffic base station can serve to 10km radius best case.
+
+If 1:1 inverse ratio applies in here and addition to that if we assume people living metropole is average having 1.5 traffic but to handle worst cases might be up to 2x: 
+
+3000 * 2x = 6000x traffic should be served.It's nearly 55 times of average so if we divide 10km radius to 55 from inverse ratio average radius coverage of the base station is: 0,18km
+
+Number of the base stations in target area = Total area to cover / average coverage of the base station
+
+Coverage area = π * r² = π * 0.0324km² ≈ 0.10179km²
+
+5300 / 0.1 = 53000 is the estimated number.
