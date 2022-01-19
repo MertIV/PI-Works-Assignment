@@ -93,6 +93,7 @@ User Management Screen relies on creation and display of users.
 	  -  Bottom 1 rem
 	  
 - Mock Up:
+
  ![pi_ui_buttons](https://user-images.githubusercontent.com/43369148/150200059-baa616c4-d658-4f12-a4cd-6dc2d0216231.png)
 ##### Second Container
   - Height: auto
@@ -113,6 +114,7 @@ User Management Screen relies on creation and display of users.
 		  - Background Color : White
 		  - Border Color : Light Grey
 		  - Mock Up :
+		  
 		  ![pi_ui_table](https://user-images.githubusercontent.com/43369148/150200074-0d25e4ce-d5f4-406a-a14d-f2f96621e3f3.png)
 	 
 	  - Form
