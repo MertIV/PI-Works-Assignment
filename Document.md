@@ -59,14 +59,24 @@ User Management Screen relies on creation and display of users.
 - Sorting : Sorting is included in table column names view. ID sorts decending only , UserName , Email and Enabled sorts both decending and ascending alphabetically. Can be handled in both frontend or backend
   
 ## Components
- 
 
+### Web Page Layout 
+#### 2 Rows with Containers
+
+  ##### First Container 
+  - Components included : Create User Button + Radio Button + Save User Button 
+  
+  ![pi_ui_buttons](https://user-images.githubusercontent.com/43369148/150200059-baa616c4-d658-4f12-a4cd-6dc2d0216231.png)
+  
+  - Second Container --> Table + Form (2 Columns are in same width which is 50%)
+
+![pi_ui_form](https://user-images.githubusercontent.com/43369148/150200039-92968d1f-7fbf-44ab-926c-ebab41ca3880.png)
+![pi_ui_table](https://user-images.githubusercontent.com/43369148/150200074-0d25e4ce-d5f4-406a-a14d-f2f96621e3f3.png)
   
 
 ## Behaviours
 
 
-  
 
 ## Errors
 
