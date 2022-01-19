@@ -1,4 +1,4 @@
-![PI_UI](https://user-images.githubusercontent.com/MertIV/PI-Works-Assignment/blob/1fd9f64a9002fc104752a046bc3f479b82600909/pi_ui.png)
+![pi_ui](https://user-images.githubusercontent.com/43369148/150193017-54a57e44-64b6-4020-b832-4f344239eedb.png)
 
 
 <div  align="center">
