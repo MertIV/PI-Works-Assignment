@@ -21,12 +21,6 @@
 
 - [Errors](#errors)
 
-- [Translations](#translations)
-
-- [Your feedback](#your-feedback)
-
-- [License](#license)
-
 
 ## Requirements
 
@@ -55,7 +49,7 @@ The current stable version is 2.11 and you should use this version for all three
 
   
 
-## Documentation
+## Components
 
   
 
@@ -67,7 +61,7 @@ To contribute, please see the [`saleor/saleor-docs` repository](https://github.c
 
   
 
-## Saleor Platform
+## Behaviours
 
   
 
@@ -79,7 +73,7 @@ The easiest way to run all components of Saleor (API, storefront and dashboard) 
 
   
 
-## Storefront
+## Errors
 
   
 
